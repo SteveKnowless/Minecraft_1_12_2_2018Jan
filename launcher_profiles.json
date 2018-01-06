@@ -1,0 +1,25 @@
+{
+  "profiles": {
+    "(Default)": {
+      "name": "(Default)",
+      "lastVersionId": "1.12.2-forge1.12.2-14.23.1.2584",
+      "javaDir": "C:\\Program Files\\Java\\jre1.8.0_151\\bin\\javaw.exe",
+      "javaArgs": "-Xmx3G -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -Xmn128M"
+    }
+  },
+  "selectedProfile": "(Default)",
+  "clientToken": "9ea5f859-7df4-4867-8dd7-0dbd08f09c13",
+  "authenticationDatabase": {
+    "a01e3843e5213998958af459800e4d11": {
+      "displayName": "Player",
+      "userid": "Player",
+      "uuid": "a01e3843-e521-3998-958a-f459800e4d11",
+      "username": "Player"
+    }
+  },
+  "selectedUser": "a01e3843e5213998958af459800e4d11",
+  "launcherVersion": {
+    "name": "1.5",
+    "format": 16
+  }
+}
