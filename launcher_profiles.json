@@ -2,13 +2,13 @@
   "profiles": {
     "(Default)": {
       "name": "(Default)",
-      "lastVersionId": "1.12.2-forge1.12.2-14.23.1.2586",
+      "lastVersionId": "1.12.2-forge1.12.2-14.23.1.2587",
       "javaDir": "C:\\Program Files\\Java\\jre1.8.0_151\\bin\\javaw.exe",
       "javaArgs": "-Xmx3G -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -Xmn128M"
     }
   },
   "selectedProfile": "(Default)",
-  "clientToken": "d448f0a3-e2d3-48b2-a7f1-7c392c203135",
+  "clientToken": "7871a7da-098d-47c0-9e11-d519b76f4a7f",
   "authenticationDatabase": {
     "a01e3843e5213998958af459800e4d11": {
       "displayName": "Player",
